@@ -42,7 +42,7 @@
     "http"
   ],
   "paths": {
-    "/pet": {
+    "/pet123123123123": {
       "post": {
         "tags": [
           "pet"
@@ -128,7 +128,8 @@
             ]
           }
         ]
-      }
+      },
+      "parameters": []
     },
     "/pet/findByStatus": {
       "get": {
